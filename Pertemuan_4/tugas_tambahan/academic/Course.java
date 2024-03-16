@@ -10,7 +10,7 @@ package tugas_tambahan.academic;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Course extends Person {
+public class Course {
     private String courseCode;
     private String courseName;
     private Lecture lecture;
